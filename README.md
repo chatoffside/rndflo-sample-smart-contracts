@@ -30,12 +30,12 @@
 
 <br />
 
-A module containing all rndflo platform Ethereum smart-contracts.
+Sandbox wallet for transacting with various tokens in the crypto ecosystem.
 
 ## Install
 
 ```
-git clone http://github.com/rndflo/rndflo-contracts
+git clone http://github.com/rndflo/sandboxwallet
 cd rndflo-contracts
 npm install
 ```
