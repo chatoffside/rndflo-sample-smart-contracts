@@ -1,4 +1,4 @@
-# sandbox wallet
+# rndflo-sample-smart-contracts
 <!--
 <div>
   Dependency Status
