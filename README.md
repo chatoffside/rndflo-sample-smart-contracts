@@ -30,7 +30,7 @@
 
 <br />
 
-Sandbox wallet for transacting with various tokens in the crypto ecosystem.
+RNDflo Sample Smart Contracts
 
 ## Install
 
